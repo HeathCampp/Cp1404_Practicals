@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afc45514-01ec-4671-9ed5-5b483a9108d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Prac_06/Car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_06/Guitar_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_06/Guitar_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_06/Guitars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_06/Languages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_06/Product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_06/Programming_languages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_06/Used_cars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="afc45514-01ec-4671-9ed5-5b483a9108d3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Prac_06/Car.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -83,11 +73,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Prac_06/Programming_languages.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1345637474/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -153,11 +152,6 @@
               <item name="Cp1404_Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Cp1404_Practicals" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Cp1404_Practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cp1404_Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="Prac_06" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -219,7 +213,7 @@
       <workItem from="1566269647607" duration="1199000" />
       <workItem from="1566861672979" duration="1008000" />
       <workItem from="1566863229299" duration="3121000" />
-      <workItem from="1568627881652" duration="891000" />
+      <workItem from="1568627881652" duration="1240000" />
     </task>
     <task id="LOCAL-00001" summary="Created Folder">
       <created>1566865711603</created>
@@ -235,11 +229,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566866209605</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Do Prac_06">
+      <created>1568628787957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568628787957</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1114000" />
+    <option name="totallyTimeSpent" value="1463000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -252,9 +253,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12526652" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12526652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,13 +334,6 @@
     <SUITE FILE_PATH="coverage/Cp1404_Practicals$password_entry_functions.coverage" NAME="password_entry_functions Coverage Results" MODIFIED="1566865565420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prac_03" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Prac_06/Car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Prac_06/Used_cars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -387,6 +380,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1345637474/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prac_06/Car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
